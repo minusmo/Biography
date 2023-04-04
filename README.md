@@ -1,6 +1,6 @@
 # Biography
 > This is a brief document introducing myself.
-This document covers who I am and what I can offer you as a Human Being and a Software Engineer. You can see the details for application
+This document covers who I am and what I can offer you as a Co-Worker and a Software Engineer. You can see the details for application
 
 ## Education
 - Hyundai High School ~ 2015.02
