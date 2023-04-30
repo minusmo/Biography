@@ -6,7 +6,7 @@ This document covers who I am and what I can offer you as a Co-Worker and a Soft
 - Hyundai High School ~ 2015.02
 - Chung-Ang University ~ 2023.08
   - Major: Physics
-  - Sub Major: Cyber Security(Security + Computer Science)
+  - Minor: Cyber Security(Security + Computer Science)
   - Visualization Lab: Computer Graphics Lab under prof. Chang Ha Lee.
 
 ## Identification
