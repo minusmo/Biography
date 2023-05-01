@@ -6,7 +6,7 @@ This document covers who I am and what I can offer you as a Co-Worker and a Soft
 - Hyundai High School ~ 2015.02
 - Chung-Ang University ~ 2023.08
   - Major: Physics
-  - Minor: Cyber Security(Security + Computer Science)
+  - Minor: Cyber Security
   - Visualization Lab: Computer Graphics Lab under prof. Chang Ha Lee.
 
 ## Identification
@@ -41,6 +41,8 @@ Basic knowlege about physics
   - Distributed System
   - Computer Graphics
   - Multi Threaded Computing
+  - Security Algorithms
+  - Infrastructures for Security
 
 - Programming Languages
   - C: Not that skillful, Have understanding about basic types, memory management, imperative and structured programming.
@@ -49,3 +51,10 @@ Basic knowlege about physics
   - Java: Not that skillful. Available to program with OOP, imperative programming, built-in libraries with SDK17.
   - JS: Can code fluently. More friendly with Browser dependent runtime(DOM, BOM). Able to program in imperative, declarative, OOP, functional paradigm. 
   - TS: Able to declare types and interface for classes and objects, and others.
+
+
+## Soft Skills
+- Fluent Communication
+- Understanding Agile Process
+- Project and Team Management
+- Product Leading and Management
