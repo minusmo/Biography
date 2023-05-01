@@ -43,6 +43,7 @@ Basic knowlege about physics
   - Multi Threaded Computing
   - Security Algorithms
   - Infrastructures for Security
+  - AI(Machine Learning/Deep Learning/Reinforcement Learning)
 
 - Programming Languages
   - C: Not that skillful, Have understanding about basic types, memory management, imperative and structured programming.
